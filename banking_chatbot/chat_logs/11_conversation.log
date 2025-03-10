@@ -1,0 +1,61 @@
+[2025-02-03 11:32:16] User: hello
+[2025-02-03 11:32:16] Bot: Hello! How can I help you today? Please choose an option:
+1. Balance
+2. Transaction History
+3. Debit
+4. Change Pin
+5. Update Details
+6. Loan Details
+
+[2025-02-03 11:32:18] User: 1
+[2025-02-03 11:32:18] Bot: Your current balance is Rs.0.00
+
+[2025-02-28 16:58:33] User: hi
+[2025-02-28 16:58:33] Bot: Hello! How can I help you today? Please choose an option:
+1. Balance
+2. Transaction History
+3. Send Money
+4. Change Pin
+5. Update Details
+6. Loan Eligibility
+
+[2025-02-28 16:58:53] User: 4
+[2025-02-28 16:58:53] Bot: Please enter your current PIN.
+Press X to exit.
+
+[2025-02-28 16:58:59] User: 123456
+[2025-02-28 16:58:59] Bot: ❌ Incorrect PIN. Please try again.
+Press X to exit.
+
+[2025-02-28 16:59:22] User: 1
+[2025-02-28 16:59:22] Bot: ❌ Incorrect PIN. Please try again.
+Press X to exit.
+
+[2025-02-28 16:59:25] User: x
+[2025-02-28 16:59:25] Bot: You have exited the current task. Please choose an option:
+1. Balance
+2. Transaction History
+3. Send Money
+4. Change Pin
+5. Update Details
+6. Loan Eligibility
+
+[2025-02-28 16:59:27] User: 1
+[2025-02-28 16:59:27] Bot: Your current balance is Rs.0.00
+
+Please choose an option:
+1. Balance
+2. Transaction History
+3. Send Money
+4. Change Pin
+5. Update Details
+6. Loan Eligibility
+
+[2025-02-28 16:59:48] User: 5
+[2025-02-28 16:59:48] Bot: Which details would you like to update? (email/username)
+Press X to exit.
+
+[2025-02-28 16:59:52] User: email
+[2025-02-28 16:59:52] Bot: Enter new email:
+Press X to exit.
+
